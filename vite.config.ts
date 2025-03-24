@@ -12,7 +12,7 @@ export default defineConfig({
         name: 'Kids Number Game',
         short_name: 'Number Game',
         description: 'A fun game to compare numbers for kids',
-        start_url: '/',
+        start_url: '/kidGames/',
         display: 'standalone',
         background_color: '#ffffff',
         theme_color: '#1976d2',
