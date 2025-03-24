@@ -30,7 +30,6 @@ export default defineConfig({
         ],
       },
       workbox: {
-        // defining cached files formats
         globPatterns: ['**/*.{js,css,html,ico,png,svg,webmanifest}'],
       },
     }),
